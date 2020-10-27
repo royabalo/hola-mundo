@@ -1,3 +1,3 @@
-const nombreUsuario = prompmt('Ingrese su nombre');
+const nombreUsuario = prompt('Ingrese su nombre');
 alert(`Hola ${nombreUsuario}!`);
 
